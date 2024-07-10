@@ -1,8 +1,3 @@
-nginx
-#支持私库
-#支持指定架构
-xiaoyaliu/alist
-linuxserver/qbittorrent:latest
 linuxserver/​nextcloud:latest
 linuxserver/​jellyfin:latest
 linuxserver/syncthing:latest
